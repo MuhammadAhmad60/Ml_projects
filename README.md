@@ -33,7 +33,7 @@ ML_Student_Grade_Predictor/
 
 ## 📊 Dataset Overview
 
-- **Source**: [UCI Student Performance Dataset](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
+- **Source**: Kaggle
 - **File Used**: `student-mat.csv`
 - **Target**: `G3` (final grade)
 - **Features**: 30+ attributes (age, study time, failures, absences, parental education, etc.)
