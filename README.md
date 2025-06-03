@@ -34,7 +34,7 @@ ML_Student_Grade_Predictor/
 ## 📊 Dataset Overview
 
 - **Source**: Kaggle
-- **File Used**: `student-mat.csv`
+- **File Used**: `student-por.csv`
 - **Target**: `G3` (final grade)
 - **Features**: 30+ attributes (age, study time, failures, absences, parental education, etc.)
 
